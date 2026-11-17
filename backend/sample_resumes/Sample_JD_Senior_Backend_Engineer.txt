@@ -1,0 +1,28 @@
+Job Title: Senior Backend Engineer
+Company: CloudScale Technologies
+Location: Remote / San Francisco, CA
+
+About the Role:
+CloudScale Technologies is looking for a Senior Backend Engineer to architect, build, and scale our core cloud-native microservices platform. You will be responsible for designing high-performance RESTful APIs, distributed asynchronous systems, and database architectures handling millions of daily operations.
+
+Core Responsibilities:
+• Architect, build, and maintain scalable backend microservices and RESTful APIs using Python and FastAPI.
+• Design, optimize, and maintain relational databases (PostgreSQL) and in-memory caches (Redis).
+• Deploy, scale, and manage containerized applications using Docker and Kubernetes (EKS) on Amazon Web Services (AWS).
+• Implement robust CI/CD pipelines, automated testing (unit and integration tests), and infrastructure as code.
+• Participate in architectural design reviews and drive engineering best practices across the team.
+
+Required Qualifications & Skills:
+• Minimum 5+ years of relevant backend software engineering experience.
+• Strong proficiency in Python and modern frameworks (FastAPI, Django, or Flask).
+• Extensive experience with Amazon Web Services (AWS) cloud services (EC2, S3, RDS, ECS/EKS).
+• Strong hands-on experience with Docker containerization and Kubernetes orchestration.
+• Proven expertise with PostgreSQL schema design, indexing, and query optimization.
+• Deep understanding of microservices architecture, RESTful API design, and Redis caching.
+• Bachelor's or Master's degree in Computer Science, Software Engineering, or related STEM field.
+
+Preferred / Nice-to-Have Skills:
+• Experience with Apache Kafka, event streaming, or RabbitMQ message queues.
+• Knowledge of Golang or TypeScript.
+• Experience with Terraform for infrastructure automation.
+• Professional cloud certification (e.g., AWS Certified Solutions Architect or CKA).

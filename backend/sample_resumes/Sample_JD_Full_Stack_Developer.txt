@@ -1,0 +1,19 @@
+Job Title: Full Stack Developer
+Company: NextGen Apps
+Location: New York, NY
+
+Overview:
+We are seeking a talented Full Stack Developer with experience in React, TypeScript, and modern backend APIs.
+
+Responsibilities:
+• Develop responsive, accessible web user interfaces using React, TypeScript, and Tailwind CSS.
+• Build secure, scalable backend APIs with Python or Node.js.
+• Work with PostgreSQL and MongoDB databases.
+• Deploy applications to cloud environments (AWS).
+
+Requirements:
+• 3+ years of full stack software engineering experience.
+• Strong experience with React, JavaScript, and TypeScript.
+• Experience with Python or Node.js backend services.
+• Experience with RESTful APIs, HTML5/CSS3, and Git.
+• Bachelor's degree in Computer Science or equivalent work experience.
