@@ -1,3 +1,13 @@
+---
+title: AI Resume Matcher & Candidate Ranker
+emoji: 🎯
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # AI Resume Matching & Candidate Ranking System
 
 An enterprise-ready, explainable AI-powered recruitment engine that evaluates and ranks multiple candidate resumes (PDF, DOCX, TXT) against Job Descriptions (JDs) using a hybrid scoring algorithm.
