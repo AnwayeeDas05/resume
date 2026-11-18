@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: resume-score
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: USE_MOCK_DB_IF_UNAVAILABLE
+        value: "true"
